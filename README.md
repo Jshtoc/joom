@@ -1,3 +1,3 @@
 # Joom 
 
-## Zoom Clone using NodeJS, WebRTC and Websockets
+## Zoom Clone using NodeJS, WebRTC and Websocket
